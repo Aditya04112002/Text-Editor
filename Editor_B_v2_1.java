@@ -1,5 +1,5 @@
 /**
- * file: Editor.java
+ * file: Editor_B_v2_1.java
  * author: Aditya Vardhan Singh
  * version: B_v2_1
  * date: 11-Aug-2023
